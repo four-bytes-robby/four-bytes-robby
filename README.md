@@ -1,6 +1,6 @@
 # 👋 Hi, here I am, rock you like a hurricane...
 
-**CEO & Visionary at [@four-flames]**  
+**CEO & Visionary at [Four Flames](https://github.com/four-flames)**
 Ibbenbüren, Germany  
 “Visions that need to become reality…”
 
@@ -8,7 +8,7 @@ Ibbenbüren, Germany
 
 ## 🚥 About Me
 
-- **Tech Leader**: Byte tamer at [@four-bytes], shaping enterprise software and IT solutions since 2019.
+- **Tech Leader**: Byte tamer at [4 Bytes](https://github.com/four-bytes), shaping enterprise software and IT solutions since 2019.
 - **Entrepreneur**: Founder and driving force behind [Supreme Chaos Records](https://supremechaos.com), [Cold Knife Records](https://cold-knife.com), and [Four Flames](https://fourflames.com) with all its business fields.
 - **Dream Builder**: Making dreams come true at [Red Flame](#) and leading diverse ventures — from record labels to logistics, e-commerce, and promotion services.
 
