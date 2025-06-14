@@ -1,6 +1,6 @@
 # 👋 Hi, here I am, rock you like a hurricane...
 
-**CEO & Visionary at [Four Flames](#)**  
+**CEO & Visionary at [Four Flames](@four-flames)**  
 Ibbenbüren, Germany  
 “Visions that need to become reality…”
 
@@ -8,23 +8,40 @@ Ibbenbüren, Germany
 
 ## 🚥 About Me
 
-- **Tech Leader**: Byte tamer at [4 Bytes](#), shaping enterprise software and IT solutions since 2019.
-- **Entrepreneur**: Founder and driving force behind [Supreme Chaos Records](https://supremechaos.com), [Cold Knife Records](#), and [Four Flames](https://fourflames.com) with all its business fields.
+- **Tech Leader**: Byte tamer at [4 Bytes](@four-bytes), shaping enterprise software and IT solutions since 2019.
+- **Entrepreneur**: Founder and driving force behind [Supreme Chaos Records](https://supremechaos.com), [Cold Knife Records](https://cold-knife.com), and [Four Flames](https://fourflames.com) with all its business fields.
 - **Dream Builder**: Making dreams come true at [Red Flame](#) and leading diverse ventures — from record labels to logistics, e-commerce, and promotion services.
+
+---
+
+## 🤯 Past & Development fun facts
+
+- Started with 64k cassette storage computers: ATARI 800 XL + Datasette.
+- Was always dreaming of a Mega ST Setup with hard drive (!). Bought this later, yet had it only to test a few weeks.
+- First PC 286, developing with Turbo Pascal TP.
+- Eventually switched to Borland Pascal with Protected Mode Support with 386 platform, combined with TASM.
+- Started to build my own OS before Windows including graphics driver stack. Anyone remember smooth scrolling with sprite hacks?
+- Was super interested in the demo scene.
+- Developed super fast FLI and MOD player.
+- Fun but necessary: memory resident DOS CD player (must be around as 7+ archive in the amateur radio boxes).
+- Hacking dos games to prevent copy protection popping up - but only for myself of course.
+- Developed amateur TV relais control software, deployed it with a group on a huge radio tower with rain coming bottom up.
+- Had super interesting projects throughout my time finishing school.
+- Developed leading (TÜV) software for non-destructive testing of wire ropes.
 
 ---
 
 ## 💻 Tech & Skills
 
-- **.NET Entwicklung**
-- **MS SQL Server**
-- **Enterprise Software**
-- **DMS, Webentwicklung, Interfaces**
-- **Multichannel E-Commerce, Logistik, Versandlösungen**
-- **Shopware**
-- **CRM: MS Dynamics, Salesforce, Sharepoint**
-- **Web: Vue.js, Symfony, PHP**
-- **Architect: Multi node, performance, scalability, monitoring, modern approach driven**
+- Multi scoped, universal, skills bottom up.
+- **Fields**: Dcoument management, web, interfacing, multi channel commerce, logistics, shipping, financing.
+- **Languages**: PHP, Python, JS, C#, Visual Basic, frontend languages ... everything is possible..
+- **Databases**: MS SQL Server, MySql, MongoDB, Postgres, SqLite, DB/2, ... all data will be processed.
+- **Frameworks**: Symfony, Vue.js, .NET, ... build on everything.
+- **Modern Platforms**: Shopware, Shopify, Algolia, ... performance matters.
+- **Enterprise Platforms**: MS Dynamics/Navision, Salesforce, Sharepoint, ... complexity is not an obstacle.
+- **Commerce Platforms**: eBay, Amazon, music dedicated platforms, ... channel it all.
+- **Architect**: Multi node, performance, scalability, monitoring, ... modern approach-driven .
 
 ---
 
