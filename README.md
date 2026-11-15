@@ -72,3 +72,7 @@ Ibbenbüren, Germany
 ---
 
 ### ⚡ “Visions need to become reality. Let’s create the future — in code, in music, in brix.”
+
+---
+
+![four-bytes traffic](./assets/four-bytes-traffic.svg)
