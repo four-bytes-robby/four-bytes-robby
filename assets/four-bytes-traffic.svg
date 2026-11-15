@@ -60,7 +60,7 @@
 <text class="t3 sm" x="584" y="221">01.11.</text><text class="t3 sm" x="816" y="221" text-anchor="end">13.11.</text>
 <text class="t2" x="24" y="252">Commits · public + private</text>
 <text class="t1 hero" x="24" y="288">198</text>
-<text class="t2 sm" x="256" y="288" text-anchor="end">+19,945 / −8,725 lines</text>
+<text class="t2 sm" x="256" y="288" text-anchor="end">+19,943 / −8,723 lines</text>
 <line class="ax" x1="24" y1="395" x2="256" y2="395"/>
 <path class="s4" d="M25.0,395 V384.5 Q25.0,380.5 29.0,380.5 H35.6 Q39.6,380.5 39.6,384.5 V395 Z"><title>01.11.: 14 commits</title></path>
 <path class="s4" d="M41.6,395 V384.5 Q41.6,380.5 45.6,380.5 H52.1 Q56.1,380.5 56.1,384.5 V395 Z"><title>02.11.: 14 commits</title></path>
