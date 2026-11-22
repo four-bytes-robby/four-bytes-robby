@@ -7,83 +7,84 @@
 </style>
 <rect class="bg" x="0.5" y="0.5" width="839" height="431" rx="8"/>
 <text class="t1 h" x="24" y="30">four-bytes · open source · last 14 days</text>
-<text class="t3 sm" x="816" y="30" text-anchor="end">30 public repos · updated 20.11.2026 UTC</text>
+<text class="t3 sm" x="816" y="30" text-anchor="end">30 public repos · updated 21.11.2026 UTC</text>
 <text class="t2" x="24" y="62">Repository views</text>
-<text class="t1 hero" x="24" y="98">450</text>
+<text class="t1 hero" x="24" y="98">458</text>
 <line class="ax" x1="24" y1="205" x2="256" y2="205"/>
-<path class="s1" d="M25.0,205 V204.7 Q25.0,200.7 29.0,200.7 H35.6 Q39.6,200.7 39.6,204.7 V205 Z"><title>07.11.: 6 views</title></path>
-<path class="s1" d="M41.6,205 V199.6 Q41.6,195.6 45.6,195.6 H52.1 Q56.1,195.6 56.1,199.6 V205 Z"><title>08.11.: 13 views</title></path>
-<path class="s1" d="M58.1,205 V205.0 Q58.1,201.4 61.7,201.4 H69.1 Q72.7,201.4 72.7,205.0 V205 Z"><title>09.11.: 5 views</title></path>
-<path class="s1" d="M91.3,205 V205.0 Q91.3,201.4 94.9,201.4 H102.3 Q105.9,201.4 105.9,205.0 V205 Z"><title>11.11.: 5 views</title></path>
-<path class="s1" d="M107.9,205 V198.2 Q107.9,194.2 111.9,194.2 H118.4 Q122.4,194.2 122.4,198.2 V205 Z"><title>12.11.: 15 views</title></path>
-<path class="s1" d="M124.4,205 V152.1 Q124.4,148.1 128.4,148.1 H135.0 Q139.0,148.1 139.0,152.1 V205 Z"><title>13.11.: 79 views</title></path>
-<path class="s1" d="M141.0,205 V124.0 Q141.0,120.0 145.0,120.0 H151.6 Q155.6,120.0 155.6,124.0 V205 Z"><title>14.11.: 118 views</title></path>
-<text class="t2 sm" x="148.3" y="115.0" text-anchor="middle">118</text>
-<path class="s1" d="M157.6,205 V201.8 Q157.6,197.8 161.6,197.8 H168.1 Q172.1,197.8 172.1,201.8 V205 Z"><title>15.11.: 10 views</title></path>
-<path class="s1" d="M174.1,205 V149.9 Q174.1,145.9 178.1,145.9 H184.7 Q188.7,145.9 188.7,149.9 V205 Z"><title>16.11.: 82 views</title></path>
-<path class="s1" d="M190.7,205 V144.2 Q190.7,140.2 194.7,140.2 H201.3 Q205.3,140.2 205.3,144.2 V205 Z"><title>17.11.: 90 views</title></path>
-<path class="s1" d="M207.3,205 V198.2 Q207.3,194.2 211.3,194.2 H217.9 Q221.9,194.2 221.9,198.2 V205 Z"><title>18.11.: 15 views</title></path>
-<path class="s1" d="M223.9,205 V200.4 Q223.9,196.4 227.9,196.4 H234.4 Q238.4,196.4 238.4,200.4 V205 Z"><title>19.11.: 12 views</title></path>
-<text class="t3 sm" x="24" y="221">07.11.</text><text class="t3 sm" x="256" y="221" text-anchor="end">19.11.</text>
+<path class="s1" d="M25.0,205 V199.6 Q25.0,195.6 29.0,195.6 H35.6 Q39.6,195.6 39.6,199.6 V205 Z"><title>08.11.: 13 views</title></path>
+<path class="s1" d="M41.6,205 V205.0 Q41.6,201.4 45.2,201.4 H52.5 Q56.1,201.4 56.1,205.0 V205 Z"><title>09.11.: 5 views</title></path>
+<path class="s1" d="M74.7,205 V205.0 Q74.7,201.4 78.3,201.4 H85.7 Q89.3,201.4 89.3,205.0 V205 Z"><title>11.11.: 5 views</title></path>
+<path class="s1" d="M91.3,205 V198.2 Q91.3,194.2 95.3,194.2 H101.9 Q105.9,194.2 105.9,198.2 V205 Z"><title>12.11.: 15 views</title></path>
+<path class="s1" d="M107.9,205 V152.1 Q107.9,148.1 111.9,148.1 H118.4 Q122.4,148.1 122.4,152.1 V205 Z"><title>13.11.: 79 views</title></path>
+<path class="s1" d="M124.4,205 V124.0 Q124.4,120.0 128.4,120.0 H135.0 Q139.0,120.0 139.0,124.0 V205 Z"><title>14.11.: 118 views</title></path>
+<text class="t2 sm" x="131.7" y="115.0" text-anchor="middle">118</text>
+<path class="s1" d="M141.0,205 V201.8 Q141.0,197.8 145.0,197.8 H151.6 Q155.6,197.8 155.6,201.8 V205 Z"><title>15.11.: 10 views</title></path>
+<path class="s1" d="M157.6,205 V149.9 Q157.6,145.9 161.6,145.9 H168.1 Q172.1,145.9 172.1,149.9 V205 Z"><title>16.11.: 82 views</title></path>
+<path class="s1" d="M174.1,205 V144.2 Q174.1,140.2 178.1,140.2 H184.7 Q188.7,140.2 188.7,144.2 V205 Z"><title>17.11.: 90 views</title></path>
+<path class="s1" d="M190.7,205 V198.2 Q190.7,194.2 194.7,194.2 H201.3 Q205.3,194.2 205.3,198.2 V205 Z"><title>18.11.: 15 views</title></path>
+<path class="s1" d="M207.3,205 V200.4 Q207.3,196.4 211.3,196.4 H217.9 Q221.9,196.4 221.9,200.4 V205 Z"><title>19.11.: 12 views</title></path>
+<path class="s1" d="M223.9,205 V198.9 Q223.9,194.9 227.9,194.9 H234.4 Q238.4,194.9 238.4,198.9 V205 Z"><title>20.11.: 14 views</title></path>
+<text class="t3 sm" x="24" y="221">08.11.</text><text class="t3 sm" x="256" y="221" text-anchor="end">20.11.</text>
 <text class="t2" x="304" y="62">Git clones</text>
-<text class="t1 hero" x="304" y="98">3,856</text>
+<text class="t1 hero" x="304" y="98">3,993</text>
 <line class="ax" x1="304" y1="205" x2="536" y2="205"/>
-<path class="s2" d="M305.0,205 V205.0 Q305.0,204.1 305.9,204.1 H318.7 Q319.6,204.1 319.6,205.0 V205 Z"><title>07.11.: 9 clones</title></path>
-<path class="s2" d="M321.6,205 V203.7 Q321.6,199.7 325.6,199.7 H332.1 Q336.1,199.7 336.1,203.7 V205 Z"><title>08.11.: 55 clones</title></path>
-<path class="s2" d="M338.1,205 V201.4 Q338.1,197.4 342.1,197.4 H348.7 Q352.7,197.4 352.7,201.4 V205 Z"><title>09.11.: 80 clones</title></path>
-<path class="s2" d="M354.7,205 V205.0 Q354.7,201.9 357.8,201.9 H366.2 Q369.3,201.9 369.3,205.0 V205 Z"><title>10.11.: 32 clones</title></path>
-<path class="s2" d="M371.3,205 V205.0 Q371.3,201.9 374.3,201.9 H382.8 Q385.9,201.9 385.9,205.0 V205 Z"><title>11.11.: 32 clones</title></path>
-<path class="s2" d="M387.9,205 V205.0 Q387.9,203.4 389.5,203.4 H400.8 Q402.4,203.4 402.4,205.0 V205 Z"><title>12.11.: 17 clones</title></path>
-<path class="s2" d="M404.4,205 V200.4 Q404.4,196.4 408.4,196.4 H415.0 Q419.0,196.4 419.0,200.4 V205 Z"><title>13.11.: 90 clones</title></path>
-<path class="s2" d="M421.0,205 V136.2 Q421.0,132.2 425.0,132.2 H431.6 Q435.6,132.2 435.6,136.2 V205 Z"><title>14.11.: 762 clones</title></path>
-<path class="s2" d="M437.6,205 V183.2 Q437.6,179.2 441.6,179.2 H448.1 Q452.1,179.2 452.1,183.2 V205 Z"><title>15.11.: 270 clones</title></path>
-<path class="s2" d="M454.1,205 V160.2 Q454.1,156.2 458.1,156.2 H464.7 Q468.7,156.2 468.7,160.2 V205 Z"><title>16.11.: 511 clones</title></path>
-<path class="s2" d="M470.7,205 V124.0 Q470.7,120.0 474.7,120.0 H481.3 Q485.3,120.0 485.3,124.0 V205 Z"><title>17.11.: 890 clones</title></path>
-<text class="t2 sm" x="478.0" y="115.0" text-anchor="middle">890</text>
-<path class="s2" d="M487.3,205 V145.0 Q487.3,141.0 491.3,141.0 H497.9 Q501.9,141.0 501.9,145.0 V205 Z"><title>18.11.: 670 clones</title></path>
-<path class="s2" d="M503.9,205 V167.2 Q503.9,163.2 507.9,163.2 H514.4 Q518.4,163.2 518.4,167.2 V205 Z"><title>19.11.: 438 clones</title></path>
-<text class="t3 sm" x="304" y="221">07.11.</text><text class="t3 sm" x="536" y="221" text-anchor="end">19.11.</text>
+<path class="s2" d="M305.0,205 V203.7 Q305.0,199.7 309.0,199.7 H315.6 Q319.6,199.7 319.6,203.7 V205 Z"><title>08.11.: 55 clones</title></path>
+<path class="s2" d="M321.6,205 V201.4 Q321.6,197.4 325.6,197.4 H332.1 Q336.1,197.4 336.1,201.4 V205 Z"><title>09.11.: 80 clones</title></path>
+<path class="s2" d="M338.1,205 V205.0 Q338.1,201.9 341.2,201.9 H349.7 Q352.7,201.9 352.7,205.0 V205 Z"><title>10.11.: 32 clones</title></path>
+<path class="s2" d="M354.7,205 V205.0 Q354.7,201.9 357.8,201.9 H366.2 Q369.3,201.9 369.3,205.0 V205 Z"><title>11.11.: 32 clones</title></path>
+<path class="s2" d="M371.3,205 V205.0 Q371.3,203.4 372.9,203.4 H384.2 Q385.9,203.4 385.9,205.0 V205 Z"><title>12.11.: 17 clones</title></path>
+<path class="s2" d="M387.9,205 V200.4 Q387.9,196.4 391.9,196.4 H398.4 Q402.4,196.4 402.4,200.4 V205 Z"><title>13.11.: 90 clones</title></path>
+<path class="s2" d="M404.4,205 V136.2 Q404.4,132.2 408.4,132.2 H415.0 Q419.0,132.2 419.0,136.2 V205 Z"><title>14.11.: 762 clones</title></path>
+<path class="s2" d="M421.0,205 V183.2 Q421.0,179.2 425.0,179.2 H431.6 Q435.6,179.2 435.6,183.2 V205 Z"><title>15.11.: 270 clones</title></path>
+<path class="s2" d="M437.6,205 V160.2 Q437.6,156.2 441.6,156.2 H448.1 Q452.1,156.2 452.1,160.2 V205 Z"><title>16.11.: 511 clones</title></path>
+<path class="s2" d="M454.1,205 V124.0 Q454.1,120.0 458.1,120.0 H464.7 Q468.7,120.0 468.7,124.0 V205 Z"><title>17.11.: 890 clones</title></path>
+<text class="t2 sm" x="461.4" y="115.0" text-anchor="middle">890</text>
+<path class="s2" d="M470.7,205 V145.0 Q470.7,141.0 474.7,141.0 H481.3 Q485.3,141.0 485.3,145.0 V205 Z"><title>18.11.: 670 clones</title></path>
+<path class="s2" d="M487.3,205 V167.2 Q487.3,163.2 491.3,163.2 H497.9 Q501.9,163.2 501.9,167.2 V205 Z"><title>19.11.: 438 clones</title></path>
+<path class="s2" d="M503.9,205 V195.1 Q503.9,191.1 507.9,191.1 H514.4 Q518.4,191.1 518.4,195.1 V205 Z"><title>20.11.: 146 clones</title></path>
+<text class="t3 sm" x="304" y="221">08.11.</text><text class="t3 sm" x="536" y="221" text-anchor="end">20.11.</text>
 <text class="t2" x="584" y="62">Packagist downloads</text>
-<text class="t1 hero" x="584" y="98">162</text>
+<text class="t1 hero" x="584" y="98">163</text>
 <line class="ax" x1="584" y1="205" x2="816" y2="205"/>
-<path class="s3" d="M601.6,205 V205.0 Q601.6,201.3 605.3,201.3 H612.4 Q616.1,201.3 616.1,205.0 V205 Z"><title>08.11.: 3 downloads</title></path>
-<path class="s3" d="M618.1,205 V189.3 Q618.1,185.3 622.1,185.3 H628.7 Q632.7,185.3 632.7,189.3 V205 Z"><title>09.11.: 16 downloads</title></path>
-<path class="s3" d="M634.7,205 V196.7 Q634.7,192.7 638.7,192.7 H645.3 Q649.3,192.7 649.3,196.7 V205 Z"><title>10.11.: 10 downloads</title></path>
-<path class="s3" d="M651.3,205 V191.8 Q651.3,187.8 655.3,187.8 H661.9 Q665.9,187.8 665.9,191.8 V205 Z"><title>11.11.: 14 downloads</title></path>
-<path class="s3" d="M667.9,205 V201.6 Q667.9,197.6 671.9,197.6 H678.4 Q682.4,197.6 682.4,201.6 V205 Z"><title>12.11.: 6 downloads</title></path>
-<path class="s3" d="M684.4,205 V195.4 Q684.4,191.4 688.4,191.4 H695.0 Q699.0,191.4 699.0,195.4 V205 Z"><title>13.11.: 11 downloads</title></path>
-<path class="s3" d="M701.0,205 V124.0 Q701.0,120.0 705.0,120.0 H711.6 Q715.6,120.0 715.6,124.0 V205 Z"><title>14.11.: 69 downloads</title></path>
-<text class="t2 sm" x="708.3" y="115.0" text-anchor="middle">69</text>
-<path class="s3" d="M717.6,205 V186.8 Q717.6,182.8 721.6,182.8 H728.1 Q732.1,182.8 732.1,186.8 V205 Z"><title>15.11.: 18 downloads</title></path>
-<path class="s3" d="M783.9,205 V190.5 Q783.9,186.5 787.9,186.5 H794.4 Q798.4,186.5 798.4,190.5 V205 Z"><title>19.11.: 15 downloads</title></path>
-<text class="t3 sm" x="584" y="221">07.11.</text><text class="t3 sm" x="816" y="221" text-anchor="end">19.11.</text>
+<path class="s3" d="M585.0,205 V205.0 Q585.0,201.3 588.7,201.3 H595.9 Q599.6,201.3 599.6,205.0 V205 Z"><title>08.11.: 3 downloads</title></path>
+<path class="s3" d="M601.6,205 V189.3 Q601.6,185.3 605.6,185.3 H612.1 Q616.1,185.3 616.1,189.3 V205 Z"><title>09.11.: 16 downloads</title></path>
+<path class="s3" d="M618.1,205 V196.7 Q618.1,192.7 622.1,192.7 H628.7 Q632.7,192.7 632.7,196.7 V205 Z"><title>10.11.: 10 downloads</title></path>
+<path class="s3" d="M634.7,205 V191.8 Q634.7,187.8 638.7,187.8 H645.3 Q649.3,187.8 649.3,191.8 V205 Z"><title>11.11.: 14 downloads</title></path>
+<path class="s3" d="M651.3,205 V201.6 Q651.3,197.6 655.3,197.6 H661.9 Q665.9,197.6 665.9,201.6 V205 Z"><title>12.11.: 6 downloads</title></path>
+<path class="s3" d="M667.9,205 V195.4 Q667.9,191.4 671.9,191.4 H678.4 Q682.4,191.4 682.4,195.4 V205 Z"><title>13.11.: 11 downloads</title></path>
+<path class="s3" d="M684.4,205 V124.0 Q684.4,120.0 688.4,120.0 H695.0 Q699.0,120.0 699.0,124.0 V205 Z"><title>14.11.: 69 downloads</title></path>
+<text class="t2 sm" x="691.7" y="115.0" text-anchor="middle">69</text>
+<path class="s3" d="M701.0,205 V186.8 Q701.0,182.8 705.0,182.8 H711.6 Q715.6,182.8 715.6,186.8 V205 Z"><title>15.11.: 18 downloads</title></path>
+<path class="s3" d="M767.3,205 V190.5 Q767.3,186.5 771.3,186.5 H777.9 Q781.9,186.5 781.9,190.5 V205 Z"><title>19.11.: 15 downloads</title></path>
+<path class="s3" d="M783.9,205 V205.0 Q783.9,203.8 785.1,203.8 H797.2 Q798.4,203.8 798.4,205.0 V205 Z"><title>20.11.: 1 downloads</title></path>
+<text class="t3 sm" x="584" y="221">08.11.</text><text class="t3 sm" x="816" y="221" text-anchor="end">20.11.</text>
 <text class="t2" x="24" y="252">Commits · public + private</text>
-<text class="t1 hero" x="24" y="288">452</text>
-<text class="t2 sm" x="256" y="288" text-anchor="end">+52,683 / −199,487 lines</text>
+<text class="t1 hero" x="24" y="288">501</text>
+<text class="t2 sm" x="256" y="288" text-anchor="end">+59,031 / −200,260 lines</text>
 <line class="ax" x1="24" y1="395" x2="256" y2="395"/>
-<path class="s4" d="M25.0,395 V395.0 Q25.0,392.1 27.9,392.1 H36.6 Q39.6,392.1 39.6,395.0 V395 Z"><title>07.11.: 3 commits</title></path>
-<path class="s4" d="M41.6,395 V395.0 Q41.6,392.1 44.5,392.1 H53.2 Q56.1,392.1 56.1,395.0 V395 Z"><title>08.11.: 3 commits</title></path>
-<path class="s4" d="M58.1,395 V394.1 Q58.1,390.1 62.1,390.1 H68.7 Q72.7,390.1 72.7,394.1 V395 Z"><title>09.11.: 5 commits</title></path>
-<path class="s4" d="M74.7,395 V395.0 Q74.7,392.1 77.6,392.1 H86.4 Q89.3,392.1 89.3,395.0 V395 Z"><title>10.11.: 3 commits</title></path>
-<path class="s4" d="M91.3,395 V379.5 Q91.3,375.5 95.3,375.5 H101.9 Q105.9,375.5 105.9,379.5 V395 Z"><title>11.11.: 20 commits</title></path>
-<path class="s4" d="M107.9,395 V385.3 Q107.9,381.3 111.9,381.3 H118.4 Q122.4,381.3 122.4,385.3 V395 Z"><title>12.11.: 14 commits</title></path>
-<path class="s4" d="M124.4,395 V367.7 Q124.4,363.7 128.4,363.7 H135.0 Q139.0,363.7 139.0,367.7 V395 Z"><title>13.11.: 32 commits</title></path>
-<path class="s4" d="M141.0,395 V314.0 Q141.0,310.0 145.0,310.0 H151.6 Q155.6,310.0 155.6,314.0 V395 Z"><title>14.11.: 87 commits</title></path>
-<text class="t2 sm" x="148.3" y="305.0" text-anchor="middle">87</text>
-<path class="s4" d="M157.6,395 V365.8 Q157.6,361.8 161.6,361.8 H168.1 Q172.1,361.8 172.1,365.8 V395 Z"><title>15.11.: 34 commits</title></path>
-<path class="s4" d="M174.1,395 V333.5 Q174.1,329.5 178.1,329.5 H184.7 Q188.7,329.5 188.7,333.5 V395 Z"><title>16.11.: 67 commits</title></path>
-<path class="s4" d="M190.7,395 V317.9 Q190.7,313.9 194.7,313.9 H201.3 Q205.3,313.9 205.3,317.9 V395 Z"><title>17.11.: 83 commits</title></path>
-<path class="s4" d="M207.3,395 V374.6 Q207.3,370.6 211.3,370.6 H217.9 Q221.9,370.6 221.9,374.6 V395 Z"><title>18.11.: 25 commits</title></path>
-<path class="s4" d="M223.9,395 V332.6 Q223.9,328.6 227.9,328.6 H234.4 Q238.4,328.6 238.4,332.6 V395 Z"><title>19.11.: 68 commits</title></path>
-<path class="s4" d="M240.4,395 V391.2 Q240.4,387.2 244.4,387.2 H251.0 Q255.0,387.2 255.0,391.2 V395 Z"><title>20.11.: 8 commits</title></path>
-<text class="t3 sm" x="24" y="411">07.11.</text><text class="t3 sm" x="256" y="411" text-anchor="end">20.11.</text>
+<path class="s4" d="M25.0,395 V395.0 Q25.0,392.1 27.9,392.1 H36.6 Q39.6,392.1 39.6,395.0 V395 Z"><title>08.11.: 3 commits</title></path>
+<path class="s4" d="M41.6,395 V394.1 Q41.6,390.1 45.6,390.1 H52.1 Q56.1,390.1 56.1,394.1 V395 Z"><title>09.11.: 5 commits</title></path>
+<path class="s4" d="M58.1,395 V395.0 Q58.1,392.1 61.1,392.1 H69.8 Q72.7,392.1 72.7,395.0 V395 Z"><title>10.11.: 3 commits</title></path>
+<path class="s4" d="M74.7,395 V379.5 Q74.7,375.5 78.7,375.5 H85.3 Q89.3,375.5 89.3,379.5 V395 Z"><title>11.11.: 20 commits</title></path>
+<path class="s4" d="M91.3,395 V385.3 Q91.3,381.3 95.3,381.3 H101.9 Q105.9,381.3 105.9,385.3 V395 Z"><title>12.11.: 14 commits</title></path>
+<path class="s4" d="M107.9,395 V367.7 Q107.9,363.7 111.9,363.7 H118.4 Q122.4,363.7 122.4,367.7 V395 Z"><title>13.11.: 32 commits</title></path>
+<path class="s4" d="M124.4,395 V314.0 Q124.4,310.0 128.4,310.0 H135.0 Q139.0,310.0 139.0,314.0 V395 Z"><title>14.11.: 87 commits</title></path>
+<text class="t2 sm" x="131.7" y="305.0" text-anchor="middle">87</text>
+<path class="s4" d="M141.0,395 V365.8 Q141.0,361.8 145.0,361.8 H151.6 Q155.6,361.8 155.6,365.8 V395 Z"><title>15.11.: 34 commits</title></path>
+<path class="s4" d="M157.6,395 V333.5 Q157.6,329.5 161.6,329.5 H168.1 Q172.1,329.5 172.1,333.5 V395 Z"><title>16.11.: 67 commits</title></path>
+<path class="s4" d="M174.1,395 V317.9 Q174.1,313.9 178.1,313.9 H184.7 Q188.7,313.9 188.7,317.9 V395 Z"><title>17.11.: 83 commits</title></path>
+<path class="s4" d="M190.7,395 V374.6 Q190.7,370.6 194.7,370.6 H201.3 Q205.3,370.6 205.3,374.6 V395 Z"><title>18.11.: 25 commits</title></path>
+<path class="s4" d="M207.3,395 V325.7 Q207.3,321.7 211.3,321.7 H217.9 Q221.9,321.7 221.9,325.7 V395 Z"><title>19.11.: 75 commits</title></path>
+<path class="s4" d="M223.9,395 V389.2 Q223.9,385.2 227.9,385.2 H234.4 Q238.4,385.2 238.4,389.2 V395 Z"><title>20.11.: 10 commits</title></path>
+<path class="s4" d="M240.4,395 V357.0 Q240.4,353.0 244.4,353.0 H251.0 Q255.0,353.0 255.0,357.0 V395 Z"><title>21.11.: 43 commits</title></path>
+<text class="t3 sm" x="24" y="411">08.11.</text><text class="t3 sm" x="256" y="411" text-anchor="end">21.11.</text>
 <text class="t2" x="304" y="252">Most viewed repositories</text>
 <text class="t1" x="304" y="286" font-size="13">1. four-rate-limiting</text>
 <rect class="s1" x="304" y="292" width="252.0" height="6" rx="3"/>
-<text class="t2 sm" x="816" y="286" text-anchor="end">69 views · 291 clones</text>
+<text class="t2 sm" x="816" y="286" text-anchor="end">69 views · 292 clones</text>
 <text class="t1" x="304" y="322" font-size="13">2. four-opencode-supertools</text>
-<rect class="s1" x="304" y="328" width="248.3" height="6" rx="3"/>
-<text class="t2 sm" x="816" y="322" text-anchor="end">68 views · 298 clones</text>
+<rect class="s1" x="304" y="328" width="244.7" height="6" rx="3"/>
+<text class="t2 sm" x="816" y="322" text-anchor="end">67 views · 337 clones</text>
 <text class="t1" x="304" y="358" font-size="13">3. four-opencode-brain</text>
 <rect class="s1" x="304" y="364" width="208.2" height="6" rx="3"/>
 <text class="t2 sm" x="816" y="358" text-anchor="end">57 views · 274 clones</text>
